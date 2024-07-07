@@ -1,4 +1,6 @@
 # Invariant Test Practice with Foundry
+![Invariant Test Practice Animation](https://github.com/yourusername/InvariantTestPractice/assets/yourgif.gif)
+
 
 Welcome to the **Invariant Test Practice** repository! This project demonstrates how to perform invariant testing using Foundry, a blazing fast, portable, and modular toolkit for Ethereum application development.
 
